@@ -1,4 +1,3 @@
-
 # Contributing to Hindsight
 
 Thanks for your interest in contributing to Hindsight!
